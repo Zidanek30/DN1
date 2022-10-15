@@ -1,0 +1,6 @@
+n = int(input('Vnesite celo stevilo: '))
+print('n =',n)
+print(type(n))
+n = float(n)
+print('n =',n)
+print(type(n))
